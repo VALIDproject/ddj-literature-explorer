@@ -1,4 +1,4 @@
 # DDJ Literature Explorer
 
-## Research Literature on Data-driven Journalism
+### Research Literature on Data-driven Journalism
 
